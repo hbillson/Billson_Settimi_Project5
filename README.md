@@ -1,8 +1,8 @@
 # Responsive Layout - FIP
 
-## ABOUT
+## About
 
-A website with a responsive layout that be used on any size browser.
+A website with a responsive layout that can be used on any size browser.
 
 ## Requirements 
 
